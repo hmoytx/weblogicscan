@@ -12,7 +12,7 @@
 提供weblogic批量检测功能，收录2014-2019的weblogic历史漏洞。  
 
 ## 环境
-python 2.7    
+python 2.7       
 
 	
 ## poc详情：
